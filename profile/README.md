@@ -24,9 +24,9 @@ Stay updated with our technical progress and competition results:
 
 | Platform | Link |
 | :--- | :--- |
-| **🌐 Official Website** | [Visit Hyperion Online](https://your-website-link.com) |
+| **🌐 Official Website** | [Visit Hyperion Online](https://team-hyperion-bbc-robotics.github.io/) |
 | **📺 YouTube Channel** | [Watch Us Compete](https://www.youtube.com/@hyperion-bbcrobotics) |
-| **📓 Engineering Logbook** | [View Our Development Process](https://your-logbook-link.com) |
+| **📓 Engineering Logbook** | [View Our Development Process](https://team-hyperion-bbc-robotics.github.io/logbook.html) |
 
 ## 🛠️ THE TECHNOLOGY
 Our robots are built using a custom stack designed for high-speed autonomous play:
